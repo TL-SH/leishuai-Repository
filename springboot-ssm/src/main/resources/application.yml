@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: 871190
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.234.166:3306/atcrowdfunding?useSSL=false&useUnicode=true&characterEncoding=UTF-8
